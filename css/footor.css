@@ -1,0 +1,54 @@
+footer {
+    background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+
+.containerf a {
+    text-decoration: none;
+    color: white;
+}
+
+a:active {
+    color: #8b879e;
+}
+
+.social-links {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.social-links a {
+    color: #fff;
+    font-size: 15px;
+    margin: 0 15px;
+    text-decoration: none;
+    transition: all 0.3s;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1);
+    text-align: right;
+
+}
+
+.social-links a:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-3px);
+}
+
+.contact-info {
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+body
+{
+    line-height: 1.6;
+}
+
+

@@ -1,0 +1,117 @@
+/* القائمة الجانبية */
+.sidebar {
+    width: 280px;
+    background-color: white;
+    padding: 30px 20px;
+    box-shadow: var(--shadow);
+    margin: 0 auto;
+    border-radius: 0 0 var(--border-radius) 0;
+}
+
+.sidebar-header {
+    background: white;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #eee;
+    border-radius: 15px 15px 0 0;
+    font-size: 24px;
+    color: var(--dark);
+    margin-bottom: 30px;
+    gap: 10px;
+}
+
+
+.sidebar-menu {
+    list-style: none;
+    flex: 1;
+
+}
+
+.menu-section {
+    margin-bottom: 15px;
+}
+
+.menu-item {
+    padding: 15px 20px;
+    margin-bottom: 8px;
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    color: var(--dark);
+    transition: var(--transition);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-weight: 500;;
+}
+
+.menu-item:hover {
+    background-color: var(--primary);
+    color: white;
+}
+
+.menu-item.active {
+    background-color: var(--primary);
+    color: white;
+}
+
+.menu-item i {
+    margin-right: 15px;
+    font-size: 1.2rem;
+    width: 25px;
+    text-align: center;
+}
+
+/* التصميم المتجاوب للقائمة الجانبية */
+@media (max-width: 1024px) {
+    .sidebar {
+        width: 100%;
+        position: relative;
+        top: 0;
+        margin-bottom: 20px;
+    }
+
+    .sidebar-menu {
+        display: flex;
+        overflow-x: auto;
+        padding: 10px 0;
+    }
+
+    .menu-section {
+        display: flex;
+        margin-bottom: 0;
+    }
+
+    .menu-item {
+        border-left: none;
+        border-bottom: 4px solid transparent;
+        white-space: nowrap;
+        min-width: 150px;
+    }
+
+    .menu-item.active {
+        border-left: none;
+        border-bottom: 4px solid #49386e;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu-item {
+        padding: 12px 15px;
+        font-size: 0.9rem;
+        min-width: 130px;
+    }
+
+    .menu-item i {
+        margin-right: 10px;
+        font-size: 1rem;
+    }
+
+    .sidebar-header {
+        padding: 20px 15px;
+    }
+
+    .sidebar-title {
+        font-size: 1.5rem;
+    }
+}

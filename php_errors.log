@@ -1,0 +1,329 @@
+[14-Dec-2025 12:08:25 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:10:08 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:10:40 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:10:59 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:11:05 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:11:35 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:12:34 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:12:42 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:12:45 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:12:47 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:14:22 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:14:33 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:16:29 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:16:29 Europe/Berlin] PHP Warning:  Undefined variable $unread_notifications_count in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 885
+[14-Dec-2025 12:16:58 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:16:58 Europe/Berlin] PHP Warning:  Undefined variable $unread_notifications_count in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 885
+[14-Dec-2025 12:17:39 Europe/Berlin] PHP Warning:  Undefined variable $unread_notifications_count in C:\xampp\htdocs\yaqeen\show_TSC.php on line 950
+[14-Dec-2025 12:30:37 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:30:37 Europe/Berlin] PHP Warning:  Undefined variable $unread_notifications_count in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 885
+[14-Dec-2025 12:31:36 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 12:31:36 Europe/Berlin] PHP Warning:  Undefined variable $unread_notifications_count in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 885
+[14-Dec-2025 12:31:37 Europe/Berlin] PHP Warning:  Undefined variable $unread_notifications_count in C:\xampp\htdocs\yaqeen\show_TSC.php on line 950
+[14-Dec-2025 13:16:59 Europe/Berlin] PHP Warning:  Undefined variable $unread_notifications_count in C:\xampp\htdocs\yaqeen\show_TSC.php on line 950
+[14-Dec-2025 13:41:56 Europe/Berlin] Number of teachers fetched: 5
+[14-Dec-2025 13:41:56 Europe/Berlin] PHP Warning:  Undefined variable $unread_notifications_count in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 885
+[14-Dec-2025 14:03:25 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:03:25 Europe/Berlin] PHP Warning:  Undefined variable $unread_notifications_count in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 885
+[14-Dec-2025 14:09:19 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:09:19 Europe/Berlin] PHP Warning:  Undefined variable $unread_notifications_count in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 885
+[14-Dec-2025 14:20:46 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:20:46 Europe/Berlin] PHP Warning:  Undefined variable $unread_notifications_count in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 885
+[14-Dec-2025 14:22:45 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:22:45 Europe/Berlin] PHP Warning:  Undefined variable $unread_notifications_count in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 916
+[14-Dec-2025 14:23:41 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:23:50 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:25:44 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:26:08 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:26:12 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:26:20 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:26:27 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:27:02 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:27:26 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:27:26 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:27:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:27:26 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:27:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:27:26 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:27:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:32:58 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:32:58 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:32:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:32:58 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:32:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:32:58 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:32:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:33:02 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:33:02 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:33:02 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:33:02 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:33:02 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:33:02 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:33:02 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:33:05 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:33:05 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:33:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:33:05 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:33:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:33:05 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:33:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:34:25 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:34:25 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:34:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:34:25 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:34:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:34:25 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:34:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:34:31 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:34:31 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:34:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:34:31 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:34:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:34:31 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:34:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:35:47 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:35:47 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:35:47 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:35:47 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:35:47 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:35:47 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:35:47 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:42:57 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:42:57 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:42:57 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:42:57 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:42:57 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:42:57 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:42:57 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:42:59 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:42:59 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:42:59 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:42:59 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:42:59 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:42:59 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:42:59 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:43:17 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:43:17 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:43:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:43:17 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:43:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:43:17 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:43:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:44:03 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:44:03 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:44:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:44:03 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:44:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:44:03 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:44:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:44:28 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:44:28 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:44:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:44:28 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:44:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:44:28 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:44:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:44:30 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:44:30 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:44:30 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:44:30 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:44:30 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:44:30 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:44:30 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:45:12 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:45:12 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:45:12 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:45:12 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:45:12 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:45:12 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:45:12 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:45:14 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:45:14 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:45:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:45:14 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:45:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:45:14 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:45:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:45:17 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:45:17 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:45:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:45:17 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:45:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:45:17 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:45:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:46:50 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:46:50 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:46:50 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:46:50 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:46:50 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:46:50 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:46:50 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:47:15 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:47:15 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:47:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:47:15 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:47:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:47:15 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:47:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:48:29 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:48:29 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:48:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:48:29 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:48:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:48:29 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:48:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:48:36 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:48:36 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:48:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:48:36 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:48:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:48:36 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:48:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:51:08 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:51:08 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:51:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:51:08 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:51:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:51:08 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:51:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:52:53 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:52:53 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:52:53 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:52:53 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:52:53 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:52:53 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:52:53 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:52:59 Europe/Berlin] Number of teachers fetched: 4
+[14-Dec-2025 14:52:59 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:53:00 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:53:00 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:53:00 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:53:00 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:53:00 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:53:13 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 14:53:13 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:53:13 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 993
+[14-Dec-2025 14:53:13 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:53:13 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:53:13 Europe/Berlin] PHP Warning:  Undefined variable $user_info in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 14:53:13 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 995
+[14-Dec-2025 15:10:54 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 15:11:37 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 15:13:00 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 15:14:34 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 15:14:59 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 15:17:21 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 15:18:52 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 15:18:57 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 15:19:05 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 15:24:56 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 15:24:58 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 16:01:28 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 16:11:05 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 16:11:06 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 16:11:27 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 16:11:27 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 16:12:13 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 16:59:48 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:00:10 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:01:26 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:01:51 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:02:12 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:05:21 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:05:25 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:15:54 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:15:54 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:15:54 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:15:54 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:30 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:16:30 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:30 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:30 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:30 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:30 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:30 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:33 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:16:33 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:33 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:33 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:33 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:33 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:33 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:34 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:16:34 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:34 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:34 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:34 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:34 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:34 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:40 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:16:40 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:40 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:40 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:40 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:40 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:40 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:44 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:16:44 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:44 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:44 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:44 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:44 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:44 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:47 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:16:47 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:47 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:47 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:47 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:16:47 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:16:47 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:17:49 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:17:49 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:17:49 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:17:49 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:17:49 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:17:49 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:17:49 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:17:54 Europe/Berlin] Number of teachers fetched: 3
+[14-Dec-2025 17:17:54 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:17:54 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:17:54 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:17:54 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[14-Dec-2025 17:17:54 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1329
+[14-Dec-2025 17:17:54 Europe/Berlin] PHP Warning:  Undefined array key "user_email" in C:\xampp\htdocs\yaqeen\creat_TSC.php on line 1330
+[15-Dec-2025 05:47:40 Europe/Berlin] Attempting to send notification for student: kareem@gmail.com, course: flower
+[15-Dec-2025 05:47:40 Europe/Berlin] Student name found: Kareem Fatayer
+[15-Dec-2025 05:47:40 Europe/Berlin] Notification text: You must complete the educational materials for course: "flower"
+[15-Dec-2025 05:47:40 Europe/Berlin] Notification inserted successfully. ID: 50
+[15-Dec-2025 05:47:40 Europe/Berlin] Manager notification text: Reminder sent to "Kareem Fatayer" for course "flower"
+[15-Dec-2025 05:47:40 Europe/Berlin] Manager notification inserted successfully. ID: 51
+[20-Dec-2025 18:48:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'edavor' in C:\xampp2\htdocs\mainProject\show_TSC.php:16
+Stack trace:
+#0 C:\xampp2\htdocs\mainProject\show_TSC.php(16): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'edavor')
+#1 {main}
+  thrown in C:\xampp2\htdocs\mainProject\show_TSC.php on line 16
+[20-Dec-2025 19:30:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in C:\xampp2\htdocs\mainProject\show_TSC.php:144
+Stack trace:
+#0 C:\xampp2\htdocs\mainProject\show_TSC.php(144): mysqli->prepare('\r\n             ...')
+#1 {main}
+  thrown in C:\xampp2\htdocs\mainProject\show_TSC.php on line 144
+[20-Dec-2025 19:30:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in C:\xampp2\htdocs\mainProject\show_TSC.php:144
+Stack trace:
+#0 C:\xampp2\htdocs\mainProject\show_TSC.php(144): mysqli->prepare('\r\n             ...')
+#1 {main}
+  thrown in C:\xampp2\htdocs\mainProject\show_TSC.php on line 144
+[20-Dec-2025 19:30:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in C:\xampp2\htdocs\mainProject\show_TSC.php:144
+Stack trace:
+#0 C:\xampp2\htdocs\mainProject\show_TSC.php(144): mysqli->prepare('\r\n             ...')
+#1 {main}
+  thrown in C:\xampp2\htdocs\mainProject\show_TSC.php on line 144
+[20-Dec-2025 19:30:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in C:\xampp2\htdocs\mainProject\show_TSC.php:144
+Stack trace:
+#0 C:\xampp2\htdocs\mainProject\show_TSC.php(144): mysqli->prepare('\r\n             ...')
+#1 {main}
+  thrown in C:\xampp2\htdocs\mainProject\show_TSC.php on line 144
+[23-Dec-2025 04:36:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'edavor' in C:\xampp2\htdocs\mainProject\show_TSC.php:17
+Stack trace:
+#0 C:\xampp2\htdocs\mainProject\show_TSC.php(17): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'edavor')
+#1 {main}
+  thrown in C:\xampp2\htdocs\mainProject\show_TSC.php on line 17
